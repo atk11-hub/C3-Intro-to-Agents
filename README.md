@@ -58,7 +58,7 @@ For the submission video, demonstrate:
 - Follow-up memory in Gradio, plus clearing the conversation.
 - Reflection logs showing the draft and reviewed reply.
 
-A submission video has not yet been added. The assignment handout is included as `C3 - Introduction to Agents.pdf`.
+A submission video has not yet been added.
 
 ## Project files
 
